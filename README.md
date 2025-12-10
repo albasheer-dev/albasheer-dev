@@ -14,8 +14,5 @@ I am a passionate programmer with a strong background in digital marketing and S
 ![](https://nirzak-streak-stats.vercel.app/?user=albasheer-dev&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=albasheer-dev&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=albasheer-dev&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=albasheer-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
